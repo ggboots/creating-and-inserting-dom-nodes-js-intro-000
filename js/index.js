@@ -8,4 +8,3 @@ element.style.backgroundColor = '#F9F9F9';
 
 document.body.appendChild(element);
 element.style.textAlign = 'center';
-
