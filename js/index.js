@@ -1,7 +1,5 @@
-//this file is optional
-//you can use this to paste in js code and have it run when index.html is loaded
-
 var element = document.createElement('div');
+var ul = document.createElement('ul');
 
 element.innerHTML = 'Hello, DOM!';
 element.style.backgroundColor = '#F9F9F9';
