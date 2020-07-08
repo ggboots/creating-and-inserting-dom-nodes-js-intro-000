@@ -5,3 +5,5 @@ var element = document.createElement('div');
 
 element.innerHTML = 'Hello, DOM!';
 element.style.backgroundColor = '#F9F9F9';
+
+document.body.appendChild(element);
